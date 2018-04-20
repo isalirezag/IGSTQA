@@ -9,11 +9,7 @@
 
   
   
- 
- <p align="center">
-  <img src="https://user-images.githubusercontent.com/12434910/39030973-5d97bbca-441a-11e8-9d8a-a58829b9f1a5.JPG">
-</p>
- 
+
 
 In this work,  we propose a trainingfree
 reduced-reference (RR) objective quality assessment
