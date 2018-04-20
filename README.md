@@ -2,7 +2,7 @@
 <p align="center">
   <b>Synthesized Texture Quality Assessment via Multi-scale Spatial and Statistical Texture Attributes of Image and Gradient Magnitude Coefficients </b><br>
   S. Alireza Golestaneh, and Lina J. Karam<br>
-    <b> IEEE Conference on Computer Vision and Pattern Recognition (CVPR), Jul 2017</b>
+    <b> IEEE Conference on Computer Vision and Pattern Recognition Workshop,  2018</b>
 
 </p>
 
