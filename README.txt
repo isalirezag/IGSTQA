@@ -12,10 +12,6 @@ Usage:
 Run the Demo to make sure the code works successfully with your system and then you can use IGSTQA to assess the quality of synthesized textures.
 Please make sure to clear the paths in your matlab so you do not receive error.
 
- 
-
-In Granularity folder we provided the Granularity database that is used for this paper for evaluation.
-
 --------------------------------------------
 
 
