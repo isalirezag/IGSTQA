@@ -21,7 +21,7 @@ both image- and gradient-based wavelet coefficients at
 multiple scales.
 
 
-![capture](https://user-images.githubusercontent.com/12434910/39275284-9796e55c-4899-11e8-892f-ac9e7ec173f5.PNG)
+![capture](https://user-images.githubusercontent.com/12434910/39275366-e18c7c1c-4899-11e8-8e61-05072618bbce.PNG)
 
 
 ```
