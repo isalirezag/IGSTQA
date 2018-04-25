@@ -21,6 +21,9 @@ both image- and gradient-based wavelet coefficients at
 multiple scales.
 
 
+![capture](https://user-images.githubusercontent.com/12434910/39275284-9796e55c-4899-11e8-892f-ac9e7ec173f5.PNG)
+
+
 ```
 @inproceedings{golestaneh2017spatially,
   title={Synthesized Texture Quality Assessment via Multi-scale Spatial and Statistical Texture Attributes of Image and Gradient Magnitude Coefficients},
