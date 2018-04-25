@@ -20,9 +20,9 @@ spatial and statistical attributes of the texture image using
 both image- and gradient-based wavelet coefficients at
 multiple scales.
 
-
-![capture](https://user-images.githubusercontent.com/12434910/39275366-e18c7c1c-4899-11e8-8e61-05072618bbce.PNG)
-
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/12434910/39275366-e18c7c1c-4899-11e8-8e61-05072618bbce.PNG">
+</p>
 
 ```
 @inproceedings{golestaneh2017spatially,
